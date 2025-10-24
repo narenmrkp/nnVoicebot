@@ -1,0 +1,7 @@
+{
+  "name": "AI Customer Support Voice Bot",
+  "description": "An intelligent customer support voice chatbot for an e-commerce platform, powered by Gemini 2.5 Native Audio. Engage in a real-time conversation to get help with FAQs, order tracking, and returns.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

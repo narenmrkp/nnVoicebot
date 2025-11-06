@@ -13,9 +13,16 @@ export interface User {
   countryCode?: string;
 }
 
-export interface ChatHistory {
-  userEmail: string;
+export interface ChatSession {
+  id: string;
+  title: string;
+  timestamp: number;
   history: TranscriptionEntry[];
+}
+
+export interface UserChatHistory {
+  userEmail: string;
+  sessions: ChatSession[];
 }
 
 export interface KnowledgeFile {

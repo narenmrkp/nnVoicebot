@@ -4,6 +4,10 @@
 
 # Run and deploy your AI Studio app
 
+# To access my nn-voicebot App click the below URL link:
+https://nnvoicebot.netlify.app/
+Note: Now Signup/login with Google/Github not working properly, its under development. please use normal signup/login buttons only at present.
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1X9q732PGEYXkCb441U3SwKZRqCkpzKOZ
